@@ -5,3 +5,4 @@
 <p align="center">The leading AI for creating Video/Photo Face Swaps </p>
 
 ![Web Video](https://github.com/BiggerGeorge/Deepswap.ai/blob/main/video/web%20video.webm)
+![Video](https://github.com/BiggerGeorge/Deepswap.ai/blob/main/video/web%20video.webm)
